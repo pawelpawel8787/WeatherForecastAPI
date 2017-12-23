@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="api-common_main" target="1.7" />
+      <module name="api-common_test" target="1.7" />
+      <module name="api-core_main" target="1.7" />
+      <module name="api-core_test" target="1.7" />
+      <module name="api-examples_main" target="1.7" />
+      <module name="api-examples_test" target="1.7" />
+      <module name="api-model_main" target="1.7" />
+      <module name="api-model_test" target="1.7" />
+      <module name="api-query_main" target="1.7" />
+      <module name="api-query_test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
