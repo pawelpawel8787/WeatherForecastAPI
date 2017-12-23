@@ -15,8 +15,8 @@ public class CurrentWeatherOneLocationExample {
         CurrentWeatherOneLocationQuery currentWeatherOneLocationQuery = QueryBuilderPicker.pick()
                 .currentWeather()                   // get current weather
                 .oneLocation()                      // for one location
-                .byCityName("Kharkiv")              // for Kharkiv city
-                .countryCode("UA")                  // in Ukraine
+                .byCityName("Warsaw")              // for Kharkiv city
+                .countryCode("PL")                  // in Ukraine
                 .type(Type.ACCURATE)                // with Accurate search
                 .language(Language.ENGLISH)         // in English language
                 .responseFormat(ResponseFormat.JSON)// with JSON response format

@@ -17,8 +17,8 @@ public class DailyForecastExample {
         ByCityName byCityNameForecast = QueryBuilderPicker.pick()
                 .forecast()                                         // get forecast
                 .daily()                                            // it should be dailt
-                .byCityName("Kharkiv")                              // for Kharkiv city
-                .countryCode("UA")                                  // in Ukraine
+                .byCityName("Warsaw")                              // for Kharkiv city
+                .countryCode("PL")                                  // in Ukraine
                 .unitFormat(UnitFormat.METRIC)                      // in Metric units
                 .language(Language.ENGLISH)                         // in English
                 .build();
