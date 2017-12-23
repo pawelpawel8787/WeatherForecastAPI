@@ -18,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-query/api-query_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-query/api-query_main.iml" group="api-query" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-query/api-query_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-query/api-query_test.iml" group="api-query" />
       <module fileurl="file://$PROJECT_DIR$/openweathermap-java-api.iml" filepath="$PROJECT_DIR$/openweathermap-java-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-examples/openweathermap-java-api-api-examples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-examples/openweathermap-java-api-api-examples_main.iml" group="api-examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-examples/openweathermap-java-api-api-examples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-examples/openweathermap-java-api-api-examples_test.iml" group="api-examples" />
     </modules>
   </component>
 </project>

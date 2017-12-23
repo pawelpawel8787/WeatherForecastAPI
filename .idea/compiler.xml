@@ -12,6 +12,8 @@
       <module name="api-model_test" target="1.7" />
       <module name="api-query_main" target="1.7" />
       <module name="api-query_test" target="1.7" />
+      <module name="openweathermap-java-api-api-examples_main" target="1.7" />
+      <module name="openweathermap-java-api-api-examples_test" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
