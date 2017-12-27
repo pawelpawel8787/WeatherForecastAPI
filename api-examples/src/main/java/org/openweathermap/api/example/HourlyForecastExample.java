@@ -17,8 +17,8 @@ public class HourlyForecastExample {
         ByCityName byCityNameForecast = QueryBuilderPicker.pick()
                 .forecast()                                         // get forecast
                 .hourly()                                           // it should be hourly forecast
-                .byCityName("Warsaw")                              // for Kharkiv city
-                .countryCode("PL")                                  // in Ukraine
+                .byCityName("Warsaw")                              // for Warsaw city
+                .countryCode("PL")                                  // in Poland
                 .unitFormat(UnitFormat.METRIC)                      // in Metric units
                 .language(Language.ENGLISH)                         // in English
                 .count(5)                                           // limit results to 5 forecasts

@@ -1,7 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Gradle template
 .gradle
-build/
+/api-examples/src/main/java/org/openweathermap/api/example/*
+/api-examples/src/main/java/org/openweathermap/api/example/CurrentWeatherMultipleLocationsExample.java
+/api-examples/src/main/java/org/openweathermap/api/example/CurrentWeatherOneLocationExample.java
+/api-examples/src/main/java/org/openweathermap/api/example/DailyForecastExample.java
+/api-examples/src/main/java/org/openweathermap/api/example/HourlyForecastExample.java
+
 
 # Ignore Gradle GUI config
 gradle-app.setting

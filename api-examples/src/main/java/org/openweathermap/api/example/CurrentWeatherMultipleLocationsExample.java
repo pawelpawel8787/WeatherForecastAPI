@@ -19,7 +19,7 @@ public class CurrentWeatherMultipleLocationsExample {
         InCycle inCycle = QueryBuilderPicker.pick()
                 .currentWeather()                                       // get current weather
                 .multipleLocations()                                    // for multiple locations
-                .inCycle(new Coordinate("18.2463", "53.0287"), 5)    // get weather for 10 closest to coordinate cities
+                .inCycle(new Coordinate("18.2415618563", "53.0287"), 5)    // get weather for 10 closest to coordinate cities
                 .language(Language.ENGLISH)                             // in English language
                 .unitFormat(UnitFormat.METRIC)                          // in metric units
                 .build();
