@@ -58,7 +58,7 @@ public class WeatherApiView extends JFrame{
                 CurrentWeatherOneLocationQuery currentWeatherOneLocationQuery = QueryBuilderPicker.pick()
                         .currentWeather()                   // get current weather
                         .oneLocation()                      // for one location
-                        .byCityName(oneLocationCityTextField.getText())              // for Warsaw city
+                        .byCityName(oneLocationCityTextField.getText())               // for Warsaw city
                         .countryCode(oneLocationCountryTextField.getText())                  // in Poland
                         .type(org.openweathermap.api.query.Type.ACCURATE)                // with Accurate search
                         .language(Language.ENGLISH)         // in English language
