@@ -16,9 +16,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * Created by HP on 2017-12-27.
- */
+
 public class WeatherApiView extends JFrame{
     private JTextField oneLocationCityTextField;
     private JTextField oneLocationCountryTextField;
