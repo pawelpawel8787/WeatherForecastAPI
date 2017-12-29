@@ -16,7 +16,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
 public class WeatherApiView extends JFrame{
     private JTextField oneLocationCityTextField;
     private JTextField oneLocationCountryTextField;
